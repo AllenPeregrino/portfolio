@@ -125,14 +125,3 @@ footer {
     }
 }
 
-/* Resume Button Accent Styling */
-.resume-btn {
-    background: #00bfff;
-    color: #111;
-    font-weight: bold;
-}
-
-.resume-btn:hover {
-    background: #ffffff;
-    color: #111;
-}
